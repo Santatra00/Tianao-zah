@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Santatra00/lovemews.git"
+    "url": "git+https://github.com/Santatra00/Tianao-zah.git"
   },
   "keywords": [
     "Tianao",
@@ -17,9 +17,9 @@
   "author": "Hasitiana Santatra",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Santatra00/lovemews/issues"
+    "url": "https://github.com/Santatra00/Tianao-zah/issues"
   },
-  "homepage": "https://github.com/Santatra00/lovemews#readme",
+  "homepage": "https://github.com/Santatra00/Tianao-zah#readme",
   "dependencies": {
     "body-parser": "^1.19.0",
     "express": "^4.17.1",
