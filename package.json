@@ -1,0 +1,28 @@
+{
+  "name": "lovemews",
+  "version": "1.0.0",
+  "description": "Application web to give response to the bot messenger",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Santatra00/lovemews.git"
+  },
+  "keywords": [
+    "Tianao",
+    "zah"
+  ],
+  "author": "Hasitiana Santatra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Santatra00/lovemews/issues"
+  },
+  "homepage": "https://github.com/Santatra00/lovemews#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4"
+  }
+}
